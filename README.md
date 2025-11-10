@@ -1,3 +1,3 @@
-# Erebus Dotfiles by ZAROC
+# My dotfiles, WIP
 
 Dotfiles for Hyprland, rice in progress
